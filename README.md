@@ -1,6 +1,6 @@
 # BACH
 
-This repo is used for my bachelors thesis. You can now find two different model examples of using neuralnetworks on mechanical systems
+This repo is used for my bachelors thesis. You can now find two different model examples of using neuralnetworks on mechanical systems. One shows an example on spring-mass-damper system and other on beam displacement when force is applied.
 
 Main components of these models:
 
