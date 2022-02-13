@@ -9,3 +9,6 @@ Main components of these models:
 3. Tensorflow
 
 Python 3.7.9 is being used in all files
+
+
+Datasetry.ipynb is file with problems
